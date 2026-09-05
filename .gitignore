@@ -1,0 +1,23 @@
+# --- Python / backend ---
+venv/
+__pycache__/
+*.pyc
+*.pyo
+backend/app.db
+.ipynb_checkpoints/
+
+# --- Model checkpoints (large binary files, don't belong in git) ---
+backend/models/*.pth
+
+# --- Node / frontend ---
+frontend/node_modules/
+frontend/dist/
+
+# --- Datasets (large, don't belong in git) ---
+datasets/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.vscode/
+*.log

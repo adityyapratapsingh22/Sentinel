@@ -1,0 +1,7 @@
+{
+  "in_distribution_fake_recall": 0.9,
+  "out_of_distribution_fake_recall": 0.04,
+  "avg_fake_confidence_ood": 0.0722891151526903,
+  "test_set": "Stable Diffusion Face Dataset (Kaggle)",
+  "n_samples": 300
+}

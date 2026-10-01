@@ -18,7 +18,7 @@ Built as a college project combining **Machine Learning Research**, **Backend En
 
 - [Overview](#-overview)
 - [Features](#-features)
-- [Tech Stack](#-techstack)
+- [Tech Stack](#-tech-stack)
 - [System Pipeline](#-system-pipeline)
 - [Authentication](#-authentication)
 - [Project Structure](#-project-structure)
